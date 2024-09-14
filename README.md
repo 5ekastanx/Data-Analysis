@@ -1,4 +1,4 @@
-<h1 class="alygin: center">Data Parsing Project</h1>
+<h1 class="text-alygin: center">Data Parsing Project</h1>
 ## Project Description
 This project is designed to parse data from various sources. The technologies and libraries used allow you to extract, process and save data for further analysis and use.
 

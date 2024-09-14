@@ -1,14 +1,14 @@
 # Data Parsing Project
-## Описание проекта
-Этот проект предназначен для парсинга данных из различных источников. Используемые технологии и библиотеки позволяют извлекать, обрабатывать и сохранять данные для дальнейшего анализа и использования.
+## Project Description
+This project is designed to parse data from various sources. The technologies and libraries used allow you to extract, process and save data for further analysis and use.
 
-## Технологии
-Python: Основной язык программирования для парсинга данных.
-BeautifulSoup: Библиотека для извлечения данных из HTML и XML файлов.
-Requests: Библиотека для выполнения HTTP-запросов.
-Pandas: Библиотека для работы с данными и их анализа.
-JSON: Формат данных для хранения и обмена данными.
-Основные функции
-Извлечение данных: Получение данных с веб-сайтов и API.
-Обработка данных: Очистка и форматирование данных для анализа.
-Сохранение данных: Сохранение данных в различных форматах (CSV, JSON, Excel). 
+## Technologies
+**Python**: The primary programming language for data parsing.
+**BeautifulSoup**: Library for extracting data from HTML and XML files.
+**Requests**: A library for making HTTP requests.
+**Pandas**: A library for working with data and analyzing it.
+**JSON**: A data format for storing and exchanging data.
+### Basic functions
+**Data Extraction**: Retrieving data from websites and APIs.
+**Data processing**: Cleaning and formatting data for analysis.
+**Data saving**: Data saving in various formats (CSV, JSON, Excel).

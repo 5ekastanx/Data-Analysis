@@ -2,7 +2,7 @@
 ## Project Description
 This project is designed to parse data from various sources. The technologies and libraries used allow you to extract, process and save data for further analysis and use.
 
-## Technologies
+## Technologies 
 **Python**: The primary programming language for data parsing.
 
 **BeautifulSoup**: Library for extracting data from HTML and XML files.
